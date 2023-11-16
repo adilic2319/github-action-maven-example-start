@@ -32,3 +32,4 @@ public class DeepThought {
         return 42;
     }
 }
+
